@@ -22,3 +22,8 @@ This is my first experience using github, so probably it's not to good, but soon
                      
 ### ⚡ Fun fact: I love learning and challenges
 
+```python
+print("Halo guys, Salam Kenal")
+```
+
+[Hello](https://media4.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif)
