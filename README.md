@@ -16,8 +16,9 @@ This is my first experience using github, so probably it's not to good, but soon
 - C
 - HTML/CSS
 
-- 📫 How to reach me: Instagram: @jason.kanggara
-                     Line     : jason_punyahp
+## 📫 How to reach me: 
+- Instagram: @jason.kanggara
+- Line     : jason_punyahp
                      
-- ⚡ Fun fact: I love learning and challenges
+### ⚡ Fun fact: I love learning and challenges
 
