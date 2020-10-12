@@ -20,7 +20,10 @@ This is my first experience using github, so probably it's not to good, but soon
 ## 📫 How to reach me: 
 - Instagram: @jason.kanggara
 - Line     : jason_punyahp
-- Linkedin : ![Jason Kanggara](linkedin.com/in/jason-kanggara-423b011a9)
+- Linkedin :  [[Jason Kanggara]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/jason-kanggara-423b011a9"
                      
 ### ⚡ Fun fact: I love learning and challenges
 
