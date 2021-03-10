@@ -11,7 +11,7 @@ I am a university student from Indonesia currently majored in Engineering. I'm e
 <a href="https://timeline.line.me/user/_dXq840Z-z31_8b_qEpfQp0FgF18DFgGyKMGFck0"><img src="https://img.shields.io/badge/-jason__punyahp-00c300?style=flat-square&logo=LINE&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jason-kanggara-423b011a9/"> <img src="https://img.shields.io/badge/Jason_Kanggara-0077B5?style=flat-square&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.instagram.com/jason.kanggara/"> <img src="https://img.shields.io/badge/jason.kanggara-E4405F?style=flat-square&logo=instagram&logoColor=white"> </a>
-<a href="https://github.com/jask-19"> <img src="https://img.shields.io/badge/jask-19-100000?style=flat-square&logo=github&logoColor=white"> </a>
+<a href="https://github.com/jask-19"> <img src="https://img.shields.io/badge/jask--19-100000?style=flat-square&logo=github&logoColor=white"> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jask-19)](https://github.com/anuraghazra/github-readme-stats)
 
