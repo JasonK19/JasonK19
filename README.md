@@ -5,7 +5,7 @@ I am a university student from Indonesia currently majored in Engineering. I'm e
 
 ### Skills :computer:
 HTML / CSS / JAVASCRIPT / SASS / BOOTSTRAP / REACT / GIT / PYTHON / C / C++ / FIGMA
-<img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/-HTML5-e3f426?style=for-the-badge&logo=html5">
 
 ### Contact Me :iphone:
 <a href="mailto: jasonkanggara19022002@gmail.com"><img src="https://img.shields.io/badge/-jasonkanggara19022002@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
