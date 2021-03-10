@@ -1,31 +1,16 @@
-# Hi there 👋
+### Hi there 👋, my name is Jason
+#### A Technology Enthusiast
+I am a university student from Indonesia currently majored in Engineering. I'm experienced in Frontend Development and UI/UX Design.
+*Always eager to learn more and further sharpen my skills*
 
-My name is Jason, a young student and a programming enthusiast ☺️
+##### Skills :computer:
+HTML / CSS / JAVASCRIPT / SASS / BOOTSTRAP / REACT / GIT / PYTHON / C / C++ / FIGMA
 
-This is my first experience using github, so probably it's not to good, but soon I'll make it better 👍
 
-## A little description about me
-- 🌱 I’m currently learning the basics of programming. Why? because I'm still a starter in the world of programming and computer science.
-- 👯 I’m looking to collaborate with several organization with technological background to further sharpen my newly found skills.
-- 🤔 I’m looking for help with many people out there that already have a deep knowledge in technology, such as AI, cloud computing and many more.
-    And wishes that with working together with them, I can learn a lot of new things about something that I really like.
-    
-## Languages I've learned 💻
+##### Reach Me Through :globe_with_meridians:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jask-19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://id.linkedin.com/in/jason-kanggara-423b011a9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jason.kanggara//)  
 
-- Python
-- C++
-- C
-- HTML/CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jask-19)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to reach me: 
-- Instagram: @jason.kanggara
-- Line     : jason_punyahp
-- Linkedin : [Jason Kanggara](https://www.linkedin.com/in/jason-kanggara-423b011a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2Em3DGRbSbK1lz3D8LtQjQ%3D%3D)
-                     
-### ⚡ Fun fact: I love learning and challenges
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jask-19&show_icons=true)  
 
-```python
-print("Halo guys, Salam Kenal")
-```
-
-<img src="https://media4.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="150">
