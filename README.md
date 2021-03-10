@@ -14,7 +14,7 @@ HTML / CSS / JAVASCRIPT / SASS / BOOTSTRAP / REACT / GIT / PYTHON / C / C++ / FI
 <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c">
-<img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B">
 <img src="https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma">
 
 ### Contact Me :iphone:
