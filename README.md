@@ -14,7 +14,3 @@ I am a university student from Indonesia currently majored in Engineering. I'm e
 <a href="https://www.instagram.com/jason.kanggara/"> <img src="https://img.shields.io/badge/jason.kanggara-E4405F?style=flat-square&logo=instagram&logoColor=white"> </a>
 <a href="https://github.com/jask-19"> <img src="https://img.shields.io/badge/jask--19-100000?style=flat-square&logo=github&logoColor=white"> </a>
 
-## Statistics :bar_chart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jask-19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jask-19&show_icons=true&theme=dark)  
-
