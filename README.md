@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Jason
 ## A Technology Enthusiast
-I am an undergraduate student from Indonesia currently majored in Engineering. I'm experienced in Frontend Development and UI/UX Design.
+I am an undergraduate student from Indonesia currently majored in Computer Science. I'm experienced in Frontend Development and UI/UX Design.
 
 *Always eager to learn more and further sharpen my skills*
 
