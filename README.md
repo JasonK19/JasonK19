@@ -4,7 +4,7 @@ I am an undergraduate student from Indonesia currently majored in Computer Scien
 
 *Always eager to learn more and further sharpen my skills*
 
-## Skills :computer:
+## Technologies :computer:
 <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=sass"> <img src="https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap"> <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c"> <img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B"> <img src="https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/-Vue-333333?style=for-the-badge&logo=vuedotjs"> <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java"> <img src="https://img.shields.io/badge/-Material--UI-333333?style=for-the-badge&logo=material-ui"> 
 
 ## Currently Learning :blue_book:
