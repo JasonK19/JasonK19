@@ -1,3 +1,4 @@
+![Blue (1)](https://user-images.githubusercontent.com/69589003/174261300-2b7e16ff-c9ab-4e2e-9fd2-7eaf18c28d9e.png)
 # Hi there 👋, I'm Jason
 ### A Technology Enthusiast
 I'm an undergraduate student from Indonesia at Institut Teknologi Bandung majoring in Computer Science. I'm currently learning and exploring a lot about Web Development, with a focus in Frontend Development and minor in Backend Development. I like building projects and trying out new technologies.
