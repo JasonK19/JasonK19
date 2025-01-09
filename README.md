@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jason
 ### A Technology Enthusiast
-I'm an undergraduate student from Indonesia at Institut Teknologi Bandung majoring in Computer Science. I'm currently learning and exploring a lot to be a good Software Engineer. I like building projects and trying out new technologies.
+I'm a software engineer working to build good products 🚀
 
 ## Contact :iphone:
 <a href="mailto: jk.jasonkanggara@gmail.com"> <img src="https://img.shields.io/badge/jk.jasonkanggara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
